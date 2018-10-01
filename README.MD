@@ -1,4 +1,4 @@
-# Geocoder that parses structured address components using the Google Geocoding API
+# Geocoder that parses raw address data into structured address components using the Google Geocoding API
 
 **Output**
 <img src="https://cl.ly/b581a495a983/Image%2525202018-10-01%252520at%25252010.54.26%252520AM.png">
