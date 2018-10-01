@@ -1,0 +1,3 @@
+"street","state","city","county","country","postal_code","neighborhood","sublocality","housenumber","postal_town","subpremise","latitude","longitude","location_type","postal_code_suffix","street_number","address"
+"Grote Markt","Groningen","Groningen","Groningen","Netherlands","9712 HN","","Binnenstad","","","","53.2184603","6.5670575","ROOFTOP","","1","Grote Markt 1	9712 HN Groningen Nederland"
+"Dam","Noord-Holland","Amsterdam","Amsterdam","Netherlands","1012 NP","","Amsterdam-Centrum","","","","52.3725572","4.892437999999999","ROOFTOP","","20","Dam 20 1012 NP Amsterdam Nederland"
